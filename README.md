@@ -1,6 +1,6 @@
-EchallanX: A Digital Solution for Efficient Traffic Violation Challan Management
+# EchallanX: Simplifying Payment of Traffic Challans
 
-Introduction:
+## Introduction:
 EchallanX is a digital solution aimed at addressing the low payment rates for e-challans generated for traffic violations. The current process is often cumbersome and involves physically visiting a traffic police station or paying at a bank, leading to a low payment rate of around 30-35%. Our aim is to improve this rate by providing a user-friendly interface for people to view their outstanding challans, pay them online, and challenge them if necessary.
 
 Approach:
