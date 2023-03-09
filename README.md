@@ -1,7 +1,7 @@
-# EchallanX: Simplifying Payment of Traffic Challans
+# E-ChallanX: Simplifying Payment of Traffic Challans
 
 ## Introduction:
-EchallanX is a digital solution aimed at addressing the low payment rates for e-challans generated for traffic violations. The current process is often cumbersome and involves physically visiting a traffic police station or paying at a bank, leading to a low payment rate of around 30-35%. Our aim is to improve this rate by providing a user-friendly interface for people to view their outstanding challans, pay them online, and challenge them if necessary.
+E-ChallanX is a digital solution aimed at addressing the low payment rates for e-challans generated for traffic violations. The current process is often cumbersome and involves physically visiting a traffic police station or paying at a bank, leading to a low payment rate of around 30-35%. Our aim is to improve this rate by providing a user-friendly interface for people to view their outstanding challans, pay them online, and challenge them if necessary.
 
 ## Approach:
 The proposed solution involves creating a unique e-challan ID for every driver linked to their driving license. All the outstanding challans for that driver will be recorded on their unique ID, which will need to be renewed every six months. Failure to renew the ID will result in the driver not being able to access other services such as pollution certificates and license renewal.
@@ -24,7 +24,7 @@ Issuing of challans will be done using AI cameras and traffic police, with all i
 12. Comprehensive dashboard for traffic police and other authorized personnel to manage challans, view analytics and reports, and access driver information
 
 ## Benefits:
-EchallanX aims to create a simple and efficient digital solution for paying and managing traffic violation challans, which will lead to an increase in the payment rate and ultimately help in improving road safety. By utilizing modern technologies and offering user-friendly interfaces, EchallanX hopes to reduce the burden on traffic police and encourage more responsible driving behavior among the public.
+E-ChallanX aims to create a simple and efficient digital solution for paying and managing traffic violation challans, which will lead to an increase in the payment rate and ultimately help in improving road safety. By utilizing modern technologies and offering user-friendly interfaces, EchallanX hopes to reduce the burden on traffic police and encourage more responsible driving behavior among the public.
 
 ## Conclusion:
-EchallanX simplifies the process of issuing and collecting traffic challans, makes it more convenient for drivers to pay fines, and improves the payment rate for outstanding challans. The digital solution offers a user-friendly interface for people to view their outstanding challans, pay them online, and challenge them if necessary. The solution encourages drivers to pay their fines on time and promotes responsible driving behavior.
+E-ChallanX simplifies the process of issuing and collecting traffic challans, makes it more convenient for drivers to pay fines, and improves the payment rate for outstanding challans. The digital solution offers a user-friendly interface for people to view their outstanding challans, pay them online, and challenge them if necessary. The solution encourages drivers to pay their fines on time and promotes responsible driving behavior.
